@@ -2,7 +2,7 @@
 This project is a sample project to show how a scheduler can be created using spring boot.
 
 ## Reference
-https://github.com/karasatishkumar/spring-scheduling-tasks
+https://spring.io/guides/gs/scheduling-tasks/
 
 ## Contributing
 Pull requests are welcome. Looking forward varius sample node projects.
